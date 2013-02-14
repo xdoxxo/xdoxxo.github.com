@@ -1,2 +1,2 @@
-# XDoxxo's blog
+# XDoxxo
 Just is another blog hosted on GitHub.
